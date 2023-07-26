@@ -29,8 +29,8 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>   
 
 #### 형상관리    
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>  
 
 
 
@@ -40,7 +40,7 @@
 
 ## My Projects
 
-Here are some of my notable projects hosted on GitHub:
+다음은 저의 주요 프로젝트 목록입니다  
 
 ### [Highway (하이웨이)](https://github.com/jeonjuseong11/TeamC_Main_Front)
 
@@ -77,9 +77,7 @@ Next.js 공부 진행
 
 저의 레포지토리를 탐색하고 의견을 남겨주세요!    
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonjuseong11&hide_progress=true)
 ## Contact Me
-
 ### **Email**   
 jeonjuseong11@gmail.com  
 ### **Blog**  
