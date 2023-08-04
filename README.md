@@ -30,10 +30,6 @@
 #### 형상관리    
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>  
 
-## GitHub Stats
-
-[![JeonJuSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonjuseong11&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My Projects
 
 다음은 저의 주요 프로젝트 목록입니다  
