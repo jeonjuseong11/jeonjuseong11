@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/css3-1572b6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/redux_saga-999999?style=flat-square&logo=redux-saga&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/></a>
 
 ## Collaboration & Tools
