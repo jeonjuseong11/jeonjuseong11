@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:14B09B,100:0359AE&height=230&section=header&text=Jeonjuseong11&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 안녕하세요! 👋 전주성의 GitHub 프로필에 오신 것을 환영합니다!  
