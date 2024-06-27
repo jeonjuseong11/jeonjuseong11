@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:14B09B,100:0359AE&height=230&section=header&text=Jeonjuseong11&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeonjuseong11&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeonjuseong11)
