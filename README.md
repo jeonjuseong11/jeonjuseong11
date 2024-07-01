@@ -1,6 +1,8 @@
 # JeonJuSeong's GitHub Profile
 
-![vemon](https://capsule-render.vercel.app/api?type=venom&height=200&text=Jeon%20Ju%20Seong.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Jeon%20Ju%20Seong.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="vemon">
+</div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
