@@ -4,8 +4,6 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeonjuseong11)
-
 안녕하세요! 👋 전주성의 GitHub 프로필에 오신 것을 환영합니다!  
 저는 프론트엔드 개발자가 되기위해 노력하고 있으며, 도전적인 문제를 해결하고 새로운 기술을 배우는 것을 즐깁니다.  
 
