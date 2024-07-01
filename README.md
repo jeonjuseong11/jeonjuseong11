@@ -1,7 +1,6 @@
 # JeonJuSeong's GitHub Profile
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:14B09B,100:0359AE&height=230&section=header&text=Jeonjuseong11&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
-
+![Jeon Ju Seong](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeonjuseong11&theme=tokyonight)](https://git.io/streak-stats)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
