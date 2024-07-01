@@ -17,6 +17,12 @@
 
 ## Collaboration & Tools
 
+<div align="center">
+	<img src="https://raw.githubusercontent.com/jeonjuseong11/jeonjuseong11/master/github-metrics.svg" alt="jeonjuseong11">
+	<br>
+
+</div>
+
 #### 코드에디터  
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>  
 
