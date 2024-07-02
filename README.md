@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Jeon%20Ju%20Seong.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="vemon">
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 안녕하세요! 👋 전주성의 GitHub 프로필에 오신 것을 환영합니다!  
 저는 프론트엔드 개발자가 되기위해 노력하고 있으며, 도전적인 문제를 해결하고 새로운 기술을 배우는 것을 즐깁니다.  
 
@@ -29,9 +27,10 @@
 #### 형상관리    
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>  
 
-## My Projects
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-다음은 저의 주요 프로젝트 목록입니다  
+
+## My Projects
 
 ### [Highway (하이웨이)](https://github.com/jeonjuseong11/TeamC_Main_Front)
 
