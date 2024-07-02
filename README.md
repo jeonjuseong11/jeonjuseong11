@@ -2,21 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Jeon%20Ju%20Seong.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="vemon">
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <div align="center">
-      <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Jeon%20Ju%20Seong.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="vemon">
-    </div>
     <p>안녕하세요! 👋 전주성의 GitHub 프로필에 오신 것을 환영합니다!  
     저는 프론트엔드 개발자가 되기위해 노력하고 있으며, 도전적인 문제를 해결하고 새로운 기술을 배우는 것을 즐깁니다.</p>
     
     <h3>Tech Stack</h3>
     
-    <img src="https://img.shields.io/badge/html5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/css3-1572b6?style=flat-square&logo=css3&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/html5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3-1572b6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
     
     <h3>Collaboration & Tools</h3>
     
