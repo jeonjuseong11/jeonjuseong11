@@ -49,27 +49,12 @@
 
 ---
 
-## 🌟 Featured Projects
-
-- [EduBridge](https://github.com/jeonjuseong11/EduBridge)  
-  교육 서비스를 위한 웹 플랫폼. React/Next.js 기반, 사용자 경험과 확장성에 중점.
-
-- [seeya-api](https://github.com/jeonjuseong11/seeya-api)  
-  Seeya 서비스의 핵심 API 서버. TypeScript 기반, 견고하고 효율적인 RESTful API 설계.
-
-- [seeya-app](https://github.com/zzangmin2/seeya-app)  
-  Seeya의 모바일 프론트엔드. React Native/Expo 기반, 최적의 모바일 UX 구현에 집중.
-
----
-
 ## 🚀 성장과 목표
 
 - **기술의 폭과 깊이 모두 성장**  
   프론트엔드/백엔드, 서비스 아키텍처 등 다양한 분야에 도전하며 실력을 키우고 있습니다.
 - **지속적인 협업과 커뮤니케이션**  
   코드 리뷰, 팀 프로젝트, 문서화 등으로 더 나은 개발 문화를 만들고 있습니다.
-- **새로운 기술과 트렌드에 항상 오픈**  
-  오픈소스, 사이드 프로젝트, 최신 기술 학습을 통해 한 단계씩 성장 중입니다.
 
 ---
 
