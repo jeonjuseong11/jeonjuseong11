@@ -5,20 +5,8 @@
 <h2 align="center">Hi there 👋, I'm Jeon Ju Seong</h2>
 <p align="center"><b>도전과 성장을 즐기는 프론트엔드 개발자</b></p>
 
----
 
-## 🙌 About Me
-
-- **프론트엔드와 백엔드를 모두 경험한 풀스택형 개발자**  
-  React, Next.js, React Native, TypeScript 기반의 다양한 웹/앱 서비스 개발 경험  
-  RESTful API, 서비스 아키텍처 설계까지 넓은 범위를 직접 다룹니다.
-
-- **실제 서비스 개발과 협업 경험**  
-  팀 프로젝트 및 협업, 사용자와 팀의 니즈를 반영하며, 커뮤니케이션을 중시합니다.
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
@@ -32,7 +20,7 @@
 
 ---
 
-## 🤝 Collaboration & Tools
+## Collaboration & Tools
 
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
@@ -43,18 +31,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
----
 
-## 🚀 성장과 목표
-
-- **기술의 폭과 깊이 모두 성장**  
-  프론트엔드/백엔드, 서비스 아키텍처 등 다양한 분야에 도전하며 실력을 키우고 있습니다.
-- **지속적인 협업과 커뮤니케이션**  
-  코드 리뷰, 팀 프로젝트, 문서화 등으로 더 나은 개발 문화를 만들고 있습니다.
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" />
@@ -62,11 +40,11 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email:** jeonjuseong11@gmail.com
 
 ---
 
 함께 성장하고 싶은 분, 새로운 협업/제안 언제든 환영합니다!  
-Thanks for visiting! 🙌
+Thanks for visiting!
