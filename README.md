@@ -8,29 +8,44 @@
 
 ## Tech Stack
 
+**Languages**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-61dafb?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
----
-
-## Collaboration & Tools
-
+**Frontend**
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61dafb?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-ff4154?style=flat-square&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-443e38?style=flat-square&logo=zustand&logoColor=white"/>
 </p>
 
+**Styling**
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MUI-007fff?style=flat-square&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled--components-db7093?style=flat-square&logo=styled-components&logoColor=white"/>
+</p>
+
+**Quality / Testing**
+<p>
+  <img src="https://img.shields.io/badge/Vitest-6e9f18?style=flat-square&logo=vitest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-c21325?style=flat-square&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2ead33?style=flat-square&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storybook-ff4785?style=flat-square&logo=storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSW-ff6a33?style=flat-square&logo=mockserviceworker&logoColor=white"/>
+</p>
+
+**AI / Automation**
+<p>
+  <img src="https://img.shields.io/badge/MCP_SDK-d97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-d97757?style=flat-square&logo=anthropic&logoColor=white"/>
+</p>
 
 ## GitHub Stats
 
